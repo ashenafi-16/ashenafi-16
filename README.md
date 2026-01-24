@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashenafi Mulugeta</h1>
-<h3 align="center">A passionate Backend developer from Ethiopia</h3>
+<h3 align="center">A passionate Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenafi-16&label=Profile%20views&color=0e75b6&style=flat" alt="ashenafi-16" /> </p>
 
