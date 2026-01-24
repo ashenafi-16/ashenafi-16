@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashenafi-16" alt="ashenafi-16" /></a> </p>
 
 - 📫 How to reach me **ashumulugeta016@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZvAkR2KVBaaZ1KIxub7auJxdtCNlivHN/view?usp=sharing](https://drive.google.com/file/d/1ZvAkR2KVBaaZ1KIxub7auJxdtCNlivHN/view?usp=sharing)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashenafi-mulugeta-08a0672a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashenafi-mulugeta-08a0672a6" height="30" width="40" /></a>
