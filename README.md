@@ -53,5 +53,5 @@ Results-driven **Lead Systems Engineer** with expertise in distributed systems, 
 ---
 
 <p align="center">
-  <i>"Building resilient systems and empowering the next generation of engineers."</i>
+  <i>"Code. Scale. Mentor. Repeat."</i>
 </p>
