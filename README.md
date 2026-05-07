@@ -12,7 +12,7 @@
 ### 🏛️ Engineering Philosophy
 I specialize in building resilient, scalable, and high-performance systems. As a **Full-Stack Developer** with a backend focus, I bridge the gap between complex architectural logic and intuitive user experiences.
 
-* **System Reliability:** Expert in implementing audit trails, exponential backoff, and dead-letter queues to ensure 100% data integrity.
+* **System Reliability:** Expert in implementing audit trails, exponential backoff, and dead-letter queues to ensure data integrity.
 * **Algorithmic Precision:** Leveraged a foundation of **700+ solved DSA challenges** to optimize mission-critical backend bottlenecks.
 * **Leadership:** Currently engineering high-concurrency APIs at **Zulu-Tech** and mentoring the next generation of architects at **AASTU**.
 
@@ -32,25 +32,19 @@ I specialize in building resilient, scalable, and high-performance systems. As a
 ### 📊 Impact & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashenafi-16&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ashenafi's Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenafi-16&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="195" />
+  <table align="center">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=ashenafi-16&show_icons=true&theme=dark&hide_border=false" width="400px" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenafi-16&layout=compact&theme=dark&hide_border=false" width="400px" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="https://leetcard.jacoblin.cool/ashu_016?theme=dark&font=Inter" width="450px" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashenafi-16&theme=dark&hide_border=false" width="855px" /></td>
+    </tr>
+  </table>
 </p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ashu_016?theme=dark&font=Inter" alt="LeetCode Stats" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashenafi-16&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌟 Key Architectural Projects
-
-* **AfriLens AI:** An AI-driven cultural exploration platform integrating Gemini Vision and secure payment orchestrators.
-* **StudyBuddy:** A real-time collaborative engine using WebSockets and Redis, orchestrated with Kubernetes.
-* **High-Speed APIs:** Developed zero-latency digital menu systems and fuel optimization routing engines.
 
 ---
 
