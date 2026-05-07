@@ -29,29 +29,15 @@ I specialize in building resilient, scalable, and high-performance systems. As a
 
 ---
 
-### 📊 Impact & Performance
+### 📊 GitHub Analytics
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ashenafi-16&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117" width="400px" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenafi-16&layout=compact&theme=dark&hide_border=false&bg_color=0d1117" width="400px" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://leetcard.jacoblin.cool/ashu_016?theme=dark&font=Inter&extension=activity&hide=ranking" width="500px" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashenafi-16&theme=dark&hide_border=false&background=0d1117" width="855px" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashenafi-16&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenafi-16&layout=compact&theme=dark&hide_border=false&bg_color=0d1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashenafi-16&theme=dark&hide_border=false&background=0d1117" width="70%" />
 </p>
 
 ---
@@ -68,8 +54,8 @@ I specialize in building resilient, scalable, and high-performance systems. As a
   <a href="https://codeforces.com/profile/ashenafi-16">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://github.com/ashenafi-16">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://leetcode.com/u/ashu_016/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -77,8 +63,4 @@ I specialize in building resilient, scalable, and high-performance systems. As a
 
 <p align="center">
   <i>"Architecting the future of distributed systems — and mentoring those who will build it next."</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashenafi-16/ashenafi-16/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
